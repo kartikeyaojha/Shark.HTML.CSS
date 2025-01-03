@@ -1,1 +1,1 @@
-# Shark.HTML.CSS
+A simple and interactive project using only HTML and CSS that creates a fun shark animation that tracks the user's mouse movement. The shark dynamically reacts to the cursor's position, creating an engaging visual effect.
